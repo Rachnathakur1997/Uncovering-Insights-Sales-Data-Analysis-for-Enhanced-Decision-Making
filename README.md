@@ -1,4 +1,6 @@
-# SQL_PROJECT
+# Uncovering-Insights-Sales-Data-Analysis-for-Enhanced-Decision-Making
+
+This project focuses on analyzing sales data to extract actionable insights that drive informed decision-making.
 
 
 **Project Title: Sales Data Analysis**
